@@ -5,3 +5,5 @@ control over what type of art the model generates, the conditional GAN technique
 condition the model on the class of images to generate. The generated images were evaluated based on
 their creativity, inheritance and diversity. Evaluation metrics showed that the model generates highly
 creative and diverse images while inheriting most key attributes of most classes.
+
+The dataset that was used can be found at: https://drive.google.com/drive/folders/1ITpYFT-uMIIkjeLiXjbUNsmarNAN4Zxk?usp=drive_link
