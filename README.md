@@ -6,6 +6,6 @@ condition the model on the class of images to generate. The generated images wer
 their creativity, inheritance and diversity. Evaluation metrics showed that the model generates highly
 creative and diverse images while inheriting most key attributes of most classes.
 
-### Dataset: https://drive.google.com/drive/folders/1ITpYFT-uMIIkjeLiXjbUNsmarNAN4Zxk?usp=drive_link
+#### Dataset: https://drive.google.com/drive/folders/1ITpYFT-uMIIkjeLiXjbUNsmarNAN4Zxk?usp=drive_link
 
-### Report: https://drive.google.com/file/d/1EHeBnHvPFwjxgEi4F57EHxyEhU2D1Ouj/view?usp=sharing 
+#### Report: https://drive.google.com/file/d/1EHeBnHvPFwjxgEi4F57EHxyEhU2D1Ouj/view?usp=sharing 
