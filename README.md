@@ -1,6 +1,6 @@
 ## Art Generator
 A Deep Convolutional Generative Adversarial Net (DCGAN) model that
-generates art paintings of five types: abstract, landscape, marina, flower and cityscape. *It was trained from scratch on 9,584 WikiArt paintings.*
+generates art paintings of five types: abstract, landscape, marina, flower and cityscape. <u>It was implemented and trained from scratch on 9,584 WikiArt paintings<u>.
 
 To have more control over what type of art the model generates, the conditional GAN technique was incorporated to
 condition the model on the class of images to generate. The generated images were evaluated based on
